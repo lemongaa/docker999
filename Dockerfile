@@ -1,4 +1,3 @@
 FROM ghcr.io/mjjonone/mjj:latest
 ENV SERVER_PORT=3000
-ENV NEZHA_KEY=123
 EXPOSE 3000
